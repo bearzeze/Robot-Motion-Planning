@@ -1,6 +1,6 @@
 # Robot Motion Planning
 
-### Python scripts that discretize 2D C-space with cylindrical obstacles and find best possible path to the final position
+### Python scripts that discretize 2D C-space with cylindrical obstacles and find best possible path to the final position using Python
 
 ## Project Description
 
